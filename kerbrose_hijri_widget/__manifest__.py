@@ -35,4 +35,6 @@
     'qweb': [
 
     ],
+    'currency ': 'USD',
+    'price  ': 55,
 }
