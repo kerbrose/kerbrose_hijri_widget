@@ -18,7 +18,8 @@
         ''
     ],
     'auto_install': False,
-    'application': False,
+    'application': True,
+    'installable': True,
     'assets': {
         'web._assets_common_styles': [
             'kerbrose_hijri_widget/static/lib/tempusdominus6/tempusdominus.css',
