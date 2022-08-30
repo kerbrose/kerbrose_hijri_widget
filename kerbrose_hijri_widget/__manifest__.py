@@ -35,6 +35,7 @@
     'qweb': [
 
     ],
+    'images': ['static/description/icon.png'],
     'currency ': 'USD',
     'price': 60,
     'support': 'kerbrose@hotmail.com',
