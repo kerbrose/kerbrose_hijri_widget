@@ -1,8 +1,8 @@
 {
     'name': 'Hijri Date Widget',
-    'version': '1.2',
+    'version': '15.0.1.2',
+    'summary': 'Um Alqura Hijri date widget',
     'description': '''this module would enable hijri date widget across Odoo platform''',
-    'summary': '',
     'author': 'Khaled Said (kerbrose@hotmail.com)',
     'website': 'https://kerbrose.github.io/',
     'license': 'LGPL-3',
@@ -36,5 +36,6 @@
 
     ],
     'currency ': 'USD',
-    'price  ': 55,
+    'price': 60,
+    'support': 'kerbrose@hotmail.com',
 }
