@@ -1,5 +1,9 @@
 <h1>﷽</h1>
 
+<div align="center">
+  <img src="kerbrose_hijri_widget/static/description/hijri_demo.gif" alt="Widget Demo" width="100%">
+</div>
+
 <p align="center">
   <a href="#intro">مقدمة</a> &#xa0; | &#xa0;
   <a href="#how-to-use">طريقة الإستخدام</a> &#xa0; | &#xa0;
