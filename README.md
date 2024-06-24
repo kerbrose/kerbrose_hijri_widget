@@ -22,9 +22,11 @@
 ```xml
 <field name="start_date" widget="hijri" />
 ```
-ولو كان هناك حقل آخر مرتبط به عليك إستخدام `related_georgian_date`
+
+
+تقوم بإضافة  `hijri`  ﻷي حقل من نوع  `datetime`
 ```xml
-<field name="start_date" widget="hijri" options="{'related_georgian_date':'invoice_date'}"/>
+<field name="start_date" widget="hijridt" />
 ```
 
 <h2 id="your-support">ادعمنا</h2>
@@ -39,13 +41,14 @@ This is the hijri date widget Odoo module. this is to add support for Umm al-Qur
 
 <h2>How to use</h2>
 
-Just add `wiget="hijri"` to the field definition
+Just add `widget="hijri"` to the field definition of type `date`
 ```xml
 <field name="start_date" widget="hijri" />
 ```
-if you want to update another georgian field, use `related_georgian_date`.
+
+Just add `widget="hijridt"` to the field definition of type `datetime`
 ```xml
-<field name="start_date" widget="hijri" options="{'related_georgian_date':'invoice_date'}"/>
+<field name="start_date" widget="hijridt" />
 ```
 
 <h2>Support Us</h2>
